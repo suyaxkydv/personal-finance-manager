@@ -1,1 +1,1 @@
-print("Personal Finance Manager!(Suyash Kumar)")
+print("Personal Finance Manager!")
